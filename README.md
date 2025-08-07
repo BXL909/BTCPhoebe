@@ -1,4 +1,4 @@
-# BTCPheoebe 🟠🐝
+# BTCPhoebe 🟠🐝
 The Bitcoin Fee Bee - a standalone webpage giving an overview of the current and historic bitcoin fee market.
 
 Try it at https://phoebe.btcdir.org
